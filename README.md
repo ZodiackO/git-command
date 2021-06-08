@@ -70,4 +70,6 @@
 	`$ git reset --hard <last_known_good_commit>`  
 - ##### Rebase checkout commit onto another commit  
 	`$ git rebase -i <sha_commit>`  
+- ##### Discard Change  
+	`$ git checkout -- .`  
 
