@@ -1,10 +1,10 @@
 # GIT Command Line
 
 **Table of Contents**
-
-[TOCM]
-
-[TOC]
+- [Branch](#branch)
+- [Commit](#commit)
+- [Tag](#tag)
+- [Tips](#tips)
 
 -------------
 
